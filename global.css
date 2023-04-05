@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jost: Jost;
+  --font-blinker: Blinker;
+  --font-ocr-a-extended: "OCR A Extended";
+  --font-ntr: NTR;
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-sandybrown: #f8be68;
+
+  /* border radiuses */
+  --br-30xl: 49px;
+  --br-3xs: 10px;
+}
